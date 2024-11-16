@@ -23,7 +23,7 @@
 <-- Pull commands  using http-->
 Normally this will help full when you are doing projects with collabration 
 
---> Here also asme but 1st you need to clone the repo 
+--> Here also same but 1st you need to clone the repo 
 
         At the very first stage
 
