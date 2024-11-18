@@ -1,0 +1,48 @@
+<-- Initial stsge -->
+
+--> first create a repo in github, 
+
+--> if repo is new and there is no files in that repo,
+
+--> create a empty folder in your local system, then open the terminal in your local system
+
+--> now follow the steps mentioned
+
+    Add files in that folder you created then apply neccessary changes if you want, then in your cmd or terminal
+
+1) git init
+
+2) git add .
+
+3) git commit -m "Your message"
+
+4) git push origin master 
+        By default git consists master as main branch if you want you can change the name from master to "your suggested name"
+
+
+<-- Pull commands  using http-->
+Normally this will help full when you are doing projects with collabration 
+
+--> Here also same but 1st you need to clone the repo 
+
+        At the very first stage
+
+1) git clone url
+ 
+    Modify the changes
+
+2) git init
+
+3) git add .
+
+4) git commit -m "Your message"
+
+5) git push origin master 
+            or 
+   git push origin branch_name
+
+If the repo is upated with some files then you can simply pull the repo
+
+    git pull origin master
+
+
